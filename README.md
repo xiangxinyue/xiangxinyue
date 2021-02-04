@@ -31,7 +31,7 @@
 </p>
 
 
-### Github State
+### Github Stats:
 
 ![Xinyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiangxinyue&show_icons=true)
 <br />
