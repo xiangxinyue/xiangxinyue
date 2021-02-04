@@ -35,8 +35,6 @@
 
 ![Xinyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiangxinyue&show_icons=true)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiangxinyue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br />
 [![Xinyue's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiangxinyue)](https://github.com/anuraghazra/github-readme-stats)
 
 
