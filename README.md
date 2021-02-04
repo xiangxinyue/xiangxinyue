@@ -1,7 +1,9 @@
 ### Hi there，I'm Xinyue 👋
 
-Software Developer Coop at Willowglen/ Fourth Year Computer Science at UAlberta/ Scholar at Peter Lougheed Leadership College
-
+- 🔭 Software Developer Coop at Willowglen
+- 🌱 Fourth Year Computer Science at UAlberta
+- 🤔 Scholar at Peter Lougheed Leadership College
+- 👯 Graduating in Dec 2021
 
 |  Website   | Linkedin  | Leetcode |
 |  ----  | ----  | ----| 
