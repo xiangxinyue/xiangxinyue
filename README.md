@@ -1,5 +1,7 @@
 ### Hi there，I'm Xinyue 👋
 
+![Followers](https://img.shields.io/github/followers/xiangxinyue?label=Followers&style=social)
+
 - 🔭 Software Developer Coop at Willowglen
 - 🌱 Fourth Year Computer Science at UAlberta
 - 🤔 Scholar at Peter Lougheed Leadership College
@@ -32,4 +34,13 @@
 ### Github State
 
 ![Xinyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiangxinyue&show_icons=true)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiangxinyue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![Xinyue's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiangxinyue)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+⭐️ I am going to live every minutes of it! :0 ⭐️
+
 
