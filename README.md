@@ -2,7 +2,6 @@
 
 ![Followers](https://img.shields.io/github/followers/xiangxinyue?label=Followers&style=social)
 
-- 🔭 Software Developer Coop at Willowglen
 - 🌱 Fourth Year Computer Science at UAlberta
 - 🤔 Scholar at Peter Lougheed Leadership College
 - 👯 Graduating in Dec 2021
