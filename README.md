@@ -8,7 +8,7 @@
 
 |  Website   | Linkedin  | Leetcode |
 |  ----  | ----  | ----| 
-| [Clik](http://xiangxinyue.com/)|[Clik](https://www.linkedin.com/in/xinyuexiang/)| [Clik](https://leetcode.com/Shandmark/)|
+| [Click](http://xiangxinyue.com/)|[Click](https://www.linkedin.com/in/xinyuexiang/)| [Click](https://leetcode.com/Shandmark/)|
 
 ### Languages and Tools:
 
