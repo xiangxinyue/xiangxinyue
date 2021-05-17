@@ -34,12 +34,6 @@
 
 ![Xinyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiangxinyue&show_icons=true)
 
-<img width="412" alt="Screen Shot 2021-03-30 at 3 44 33 AM" src="https://user-images.githubusercontent.com/44979399/112969728-c4a85a00-910a-11eb-894d-2e854e824609.png">
-
-
-
-
-
 ⭐️ I am going to live every minutes of it! :0 ⭐️
 
 
