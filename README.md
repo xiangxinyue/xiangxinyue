@@ -6,9 +6,9 @@
 - 🤔 Scholar at Peter Lougheed Leadership College
 - 👯 Graduating in Dec 2021
 
-|  Website   | Linkedin  | Leetcode |
-|  ----  | ----  | ----| 
-| [Click](http://xiangxinyue.com/)|[Click](https://www.linkedin.com/in/xinyuexiang/)| [Click](https://leetcode.com/Shandmark/)|
+|  Website   | Linkedin  | Leetcode | Leetcode Notes|
+|  ----  | ----  | ----| ----| 
+| [Click](http://xiangxinyue.com/)|[Click](https://www.linkedin.com/in/xinyuexiang/)| [Click](https://leetcode.com/Shandmark/)|[Click](https://foam-promotion-0a4.notion.site/096772c22aa8420a91e89ae845058fea?v=192c7e44f53742a5aaf2d8122849ea4c)|
 
 ### Languages and Tools:
 
