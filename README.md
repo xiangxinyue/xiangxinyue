@@ -2,9 +2,9 @@
 
 ![Followers](https://img.shields.io/github/followers/xiangxinyue?label=Followers&style=social)
 
-- 🌱 Fourth Year Computer Science at UAlberta
+- 🌱 Computer Science Coop at UAlberta 2017 - 2022
 - 🤔 Scholar at Peter Lougheed Leadership College
-- 👯 Graduating in Dec 2021
+- 👯 Graduated in Dec 2021
 
 |  Website   | Linkedin  | 
 |  ----  | ----  | 
