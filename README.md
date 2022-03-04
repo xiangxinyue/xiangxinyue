@@ -4,7 +4,7 @@
 
 - 🌱 Computer Science Coop Alumni UAlberta 2022
 - 🤔 Scholar at Peter Lougheed Leadership College
-- 👯 Full Stack Software Developer
+- 👯 Full Stack Software Developer at BMO Financial Group Toronto
 
 |  Website   | Linkedin  | 
 |  ----  | ----  | 
