@@ -1,7 +1,5 @@
 ### Hi there，I'm Xinyue 👋
 
-![Followers](https://img.shields.io/github/followers/xiangxinyue?label=Followers&style=social)
-
 - 🌱 Computer Science Coop Alumni UAlberta 2022
 - 🤔 Scholar at Peter Lougheed Leadership College
 - 👯 Full Stack Software Developer at BMO Financial Group Toronto
