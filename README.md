@@ -1,14 +1,14 @@
 ### Hi there，I'm Xinyue 👋
 
-- 🌱 Computer Science Coop Alumni UAlberta 2022
-- 🤔 Scholar at Peter Lougheed Leadership College
-- 👯 Full Stack Software Developer at BMO Financial Group Toronto
-- Xinyue is a passionate, efficient, and creative individual that loves problem-solving and engineering elegant software. To be more specific, she has:
-- 3 years of hands-on experience to build web and mobile applications using HTML, CSS, JavaScript, React.js, Flutter, Java, C++, Xcode, Android Studio, and Visual Studio Code.
-- 3 years of practical experience and solid knowledge to master different types of databases including SQL database Mysql, SQLite, and NoSQL databases such as Firebase, and MongoDB. 
-- 3 years of experience applying object-oriented programming, unit tests, deployment, and agile methodologies. 
-- 2 years of hands-on experience in data engineering where she cleaned data and trained machine learning models using Python, Numpy, Tensorflow, and PyTorch frameworks.
-- Exceptional skills demonstrated in source control and continuous integration tools such as Git, Travis CI, and Circle CI.
+- 📖 BSc Computer Science Coop Alumni UAlberta 2022
+- 🏆 Scholar at Peter Lougheed Leadership College
+- 💻 Full Stack Software Developer at BMO Financial Group Toronto
+- 🎈 Xinyue is a passionate, efficient, and creative individual that loves problem-solving and engineering elegant software. To be more specific, she has:
+- 📓 3 years of hands-on experience to build web and mobile applications using HTML, CSS, JavaScript, React.js, Flutter, Java, C++, Xcode, Android Studio, and Visual Studio Code.
+- 🤖️ 3 years of practical experience and solid knowledge to master different types of databases including SQL database Mysql, SQLite, and NoSQL databases such as Firebase, and MongoDB. 
+- 🔩 3 years of experience applying object-oriented programming, unit tests, deployment, and agile methodologies. 
+- 📈 2 years of hands-on experience in data engineering where she cleaned data and trained machine learning models using Python, Numpy, Tensorflow, and PyTorch frameworks.
+- 🧰 Exceptional skills demonstrated in source control and continuous integration tools such as Git, Travis CI, and Circle CI.
 
 |  Website   | Linkedin  | 
 |  ----  | ----  | 
