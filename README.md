@@ -1,6 +1,6 @@
 ### Hi there，I'm Xinyue 👋
 
-I am a quantitative-oriented senior software developer with strong capabilities in large-scale engineering, AI research, and data-intensive computation. My technical work spans pricing systems, simulation frameworks, distributed microservices, and applied machine learning.
+I am a senior software developer specializing in quantitative technology, with a strong focus on large-scale engineering, distributed pricing systems, and data-intensive computation. My work sits at the intersection of front-office engineering and quantitative workflows, supporting traders and quants through high-performance infrastructure and analytical tooling.
 
 Core strengths include:
 - Quantitative technology & analytics integration: Experience implementing and scaling pricing workflows, scenario-based analytics, and risk-driven computation pipelines. Work closely with quantitative teams to translate models and analytics into reliable, production-grade services used across trading and risk platforms.
