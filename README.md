@@ -3,7 +3,7 @@
 I am a quantitative-oriented senior software developer with strong capabilities in large-scale engineering, AI research, and data-intensive computation. My technical work spans pricing systems, simulation frameworks, distributed microservices, and applied machine learning.
 
 Core strengths include:
-- Quantitative engineering: Monte Carlo simulation, exposure modeling (EE/PFE/CVA), stochastic scenario generation, and risk-factor modeling for pricing and analytics workflows.
+- Quantitative technology & analytics integration: Experience implementing and scaling pricing workflows, scenario-based analytics, and risk-driven computation pipelines. Work closely with quantitative teams to translate models and analytics into reliable, production-grade services used across trading and risk platforms.
 - Distributed backend systems: Python microservices, REST APIs, service-oriented architecture, Docker/Kubernetes, high-throughput processing, cloud compute, and event-driven system design.
 - AI & applied research: Experience with NLP/LLM pipelines, data preprocessing, model fine-tuning, and research-grade experimentation across projects in political networks, cognitive neuroscience, and computational linguistics.
 - Machine learning & statistics: Hands-on experience with TensorFlow, PyTorch, scikit-learn, and data modeling techniques applied to structured, time-series, and unstructured datasets.
